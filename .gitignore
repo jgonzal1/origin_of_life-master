@@ -1,3 +1,4 @@
 *.png
 *.xcf
 __pycache__
+old/*
